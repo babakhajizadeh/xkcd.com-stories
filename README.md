@@ -1,7 +1,7 @@
 <img src="https://github.com/babakhajizadeh/xkcd.com-stories/blob/main/readme_logo.png" alt="Babak Hajizadeh" style="float:left;"/>
 
 ![made-with-python](https://img.shields.io/badge/python-v3.7-blue)
-# Comic stories on Linux terminal (API implementation of xkcd.com - Randall Munroe)
+# Comic stories on Command Shell (API implementation of xkcd.com - Randall Munroe)
 
 __Have you ever bored working on dark windows of shell and Command Line?__  
 Here it helps, Now you can access to thousands of comics stories by [Randall Munroe](https://xkcd.com/about/) at [xkcd.com](https://xkcd.com) directly read on your terminal!  
