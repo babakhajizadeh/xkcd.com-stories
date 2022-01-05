@@ -16,5 +16,5 @@ chmod +x comic.py
 ./comic.py -n [comic number] (with no args it brings a random comic)
 ```
 #### Contact
- by [Babak Hajizadeh](https://www.linkedin.com/in/babakhajizadeh) (LinkedIn)  
-__Instagram: bh.social__  
+ [LinkedIn](https://www.linkedin.com/in/babakhajizadeh)  
+Instagram: bh.social  
